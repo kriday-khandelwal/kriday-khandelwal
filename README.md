@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm kriday!
 
-<!--
-**kriday-khandelwal/kriday-khandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Class 11 CBSE student (PCM + IP) with a passion for coding and technology.  
+🐍 I love working with **Python** and have built a few projects for school exhibitions.  
+💡 Currently exploring GitHub, open-source, and project-based learning.  
+🌐 I believe in learning by building and sharing.
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- 🔢 **Marks Calculator**: A Python app to compute grades from CBSE patterns
+- 🧠 **Quiz App**: A command-line Python quiz for school-level competitions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python modules (Tkinter, Pandas)
+- Git & GitHub basics
+- HTML, CSS for simple front-end work
+
+### 📫 Let's connect!
+Feel free to follow or explore my repositories 🙂
